@@ -21,7 +21,7 @@
       "id": 2
     }
   ],
-  "users": [],
+  "users": [ {"id": 1},{"id": 2},{"id": 3}],
   "robots": [{
     "robotName": "C8-09S100K",
     "robotType": "Human Assistant",
